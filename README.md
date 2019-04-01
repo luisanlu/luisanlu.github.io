@@ -1,1 +1,1 @@
-This is Luisan's projects and blogs.
+This is Luisan's projects and blog pages.
