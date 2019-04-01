@@ -12,7 +12,7 @@ github_repo: "https://github.com/luisanlu/luisanlu.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For freedom."
-sidebar-avatar: /img/1920DOG_6001.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/BGPic.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
